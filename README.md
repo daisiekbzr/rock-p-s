@@ -2,17 +2,12 @@
 
 <img src="https://y.yarn.co/0e32c1f0-9755-460f-ad53-0d73ff40dafe_text.gif" alt="Sheldon and Rajesh" width="500">
 
-Welcome to my Sheldon Cooper's "Rock, Paper, Scissors, Lizard, Spock" Game! This game is based on the popular variation of the classic game, as seen on the TV show "The Big Bang Theory". Challenge your strategic thinking and see if you can outsmart Sheldon in this ultimate showdown of hand gestures!
+Welcome to my <strong>"Sheldon Cooper's 'Rock, Paper, Scissors, Lizard, Spock'"</strong> Game! This game is based on the popular variation of the classic game, as seen on the TV show "The Big Bang Theory". Challenge your strategic thinking and see if you can outsmart Sheldon in this ultimate showdown of hand gestures!
 
 ## How to Play
-
-1. Clone or download the repository to your local machine.
-2. Open a terminal or command prompt and navigate to the game directory.
-3. Run the game by executing the following command:  
-```.py```.
-5. Follow the on-screen prompts and type your choice (rock, paper, scissors, lizard, or spock) when prompted.
-6. The computer will randomly select its move, and the game will determine the winner based on the rules of the game.
-7. Play 5 rounds and compete against Sheldon to see how many times you can win!
+1. Follow the on-screen prompts and type your choice (rock, paper, scissors, lizard, or spock) when prompted.
+2. The computer (or "Sheldon") will randomly select its move, and the game will determine the winner based on the rules of the game.
+3. Play 5 rounds and compete against Sheldon to see how many times you can win!
 
 ## Rules
 
@@ -22,7 +17,19 @@ The rules of the game are as follows:
 
 ## Requirements
 
-- Python 3.9.6
+Python 3.9.6
 
+## How to Run
 
+1. Clone the repository or download the Python script file to your local machine.
+2. Open a terminal or command prompt and navigate to the directory where the script is located.
+3. Run the script by executing the following command:  
+  ```python number_guess.py```
 
+## Acknowledgments
+
+The "Sheldon Cooper's 'Rock, Paper, Scissors, Lizard, Spock'" Game was developed by <a href="https://github.com/daisiecommits">daisiecommits</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Big Bang Theory TV series. Enjoy the game!
+
+## Preview of the Game
+
+![Game Demo](.gif)
