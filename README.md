@@ -1,4 +1,4 @@
-# Sheldon Cooper's Rock, Paper, Scissors, Lizard, Spock Game
+# Sheldon Cooper's "Rock, Paper, Scissors, Lizard, Spock" Game
 
 <img src="https://y.yarn.co/0e32c1f0-9755-460f-ad53-0d73ff40dafe_text.gif" alt="Sheldon and Rajesh" width="500">
 
