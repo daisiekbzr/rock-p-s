@@ -32,4 +32,4 @@ The "Sheldon Cooper's 'Rock, Paper, Scissors, Lizard, Spock'" Game was developed
 
 ## Preview of the Game
 
-![Game Demo](.gif)
+![Game Demo](rock-ps-demo.gif)
