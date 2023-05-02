@@ -24,7 +24,7 @@ Python 3.9.6
 1. Clone the repository or download the Python script file to your local machine.
 2. Open a terminal or command prompt and navigate to the directory where the script is located.
 3. Run the script by executing the following command:  
-  ```python number_guess.py```
+  ```python rock_paper_scissors.py```
 
 ## Acknowledgments
 
