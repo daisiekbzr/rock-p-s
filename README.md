@@ -28,7 +28,7 @@ Python 3.9.6
 
 ## Acknowledgments
 
-The "Sheldon Cooper's 'Rock, Paper, Scissors, Lizard, Spock'" Game was developed by <a href="https://github.com/daisiecommits">daisiecommits</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Big Bang Theory TV series. Enjoy the game!
+The "Sheldon Cooper's 'Rock, Paper, Scissors, Lizard, Spock'" Game was developed by <a href="https://github.com/daisiekbzr">daisiekbzr</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Big Bang Theory TV series. Enjoy the game!
 
 ## Preview of the Game
 
